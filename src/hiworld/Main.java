@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("测试一下git能否使用,能够使用，测试");
+        System.out.println("提交代码");
 
     }
 }
